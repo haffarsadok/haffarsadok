@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haffar Med Sadok</h1>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/7a6f573e-ed0c-407f-9aba-49e24a147855" width="1000" height="500" alt="Description of image">
+  <img src="https://github.com/haffarsadok/haffarsadok/blob/main/haff.gif" width="1000" height="500" alt="Description of image">
 </div>
 
 <h3 align="center">Am a software engineer and trainer specializing in Java and mobile development, with experience in a variety of programming languages.</h3>
