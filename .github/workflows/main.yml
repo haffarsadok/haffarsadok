@@ -1,27 +1,22 @@
 name: Generate Datas
 on:
-  schedule:
-    # execute every 12 hours
-    - cron: "0 */12 * * *"
-  workflow_dispatch: 
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Step 1: Generate contribution snake SVG
-      - name: Generate contribution snake
-        uses: Platane/snk@v2
+      # Snake Animation
+      - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: haffarsadok
-          svg_out_path: github-contribution-grid-snake.svg  # Saving directly to the root
-      
-      # Step 2: Deploy to GitHub Pages (gh-pages branch)
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v2.1.3
+          github_user_name: jaiswaladi246
+          svg_out_path: github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
-          target_branch: gh-pages
-          build_dir: .  # Deploying the root directory
+          target_branch: output
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
