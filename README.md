@@ -40,4 +40,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=haffarsadok&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ### My Github Contributions
-![snake gif](https://github.com/haffarsadok/haffar/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/haffarsadok/haffar/output/github-contribution-grid-snake.gif)
