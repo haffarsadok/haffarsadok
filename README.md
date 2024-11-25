@@ -39,5 +39,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=haffarsadok&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-### 🔝 My Github Contributions
-![snake gif](https://github.com/haffarsadok/haffarsadok/blob/output/github-contribution-grid-snake.gif)
+### My Github Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haffarsadok/haffarsadok/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haffarsadok/haffarsadok/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/haffarsadok/haffarsadok/output/github-contribution-grid-snake.svg">
+</picture>
