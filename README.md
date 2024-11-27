@@ -34,7 +34,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haffarsadok&show_icons=true&locale=en" alt="haffarsadok" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haffarsadok&" alt="haffarsadok" /></p>
+<p align=left>
+      <img  width=400 src="https://nirzak-streak-stats.vercel.app/?user=haffarsadok&theme=tokyonight&hide_border=true" alt="haffar Readme Streak" />
+      
+</p> 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=haffarsadok&limit=5&theme=flat&combine_all_yearly_contributions=true)
