@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [www.haffarmedsadok.me](www.haffarmedsadok.me)
 
-- 📫 How to reach me **mohamedsadok.haffar@episousse.com.tn**
+- 📫 How to reach me **contact@haffarmedsadok.me**
 
 - 💬 Ask me about **Java , Python and Machine learning**
   
